@@ -1,0 +1,11 @@
+[package]
+name = "rusty-currency"
+version = "0.1.0"
+authors = ["Martin Ronquillo <23411718+RonquilloAeon@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.0"
+rust_decimal = "1.2.0"
